@@ -116,4 +116,4 @@ export MANPAGER="/absolute/path/to/man-pager.sh"
 
 ## ライセンス
 
-ライセンス表記がまだないため、必要なら追加してください。
+MIT LICENCE
